@@ -1,4 +1,4 @@
-Sitemap: https://markuspalm.se/sitemap.xml
+Sitemap: /sitemap.xml
 User-agent: *
 Disallow /errordocs/
 Disallow /media/preview/
