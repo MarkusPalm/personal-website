@@ -2,10 +2,14 @@
 	list-style-type: none;
 	overflow: hidden;
 	text-decoration: none;
-	color: #ffffff;
 	margin-left: 1vw;
 	margin-right: 1vw;
 }
+
+a {
+	color: #ffffff;
+}
+
 .links {
 	text-align: center;
 	font-size: 5vw;

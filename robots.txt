@@ -2,3 +2,4 @@ Sitemap: https://markuspalm.se/sitemap.xml
 User-agent: *
 Disallow /errordocs/
 Disallow /media/preview/
+Disallow /media/documents/
