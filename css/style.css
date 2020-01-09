@@ -1,9 +1,9 @@
-.fab, .fas {
+.fa {
 	list-style-type: none;
 	overflow: hidden;
 	text-decoration: none;
-	margin-left: 1vw;
-	margin-right: 1vw;
+	margin-left: 0.4vw;
+	margin-right: 0.4vw;
 }
 
 a {
@@ -14,7 +14,8 @@ a {
 	text-align: center;
 	font-size: 5vw;
 	padding-left: 0;
-	padding-top: 1vw;
+	padding-right: 0;
+	padding-top: 0;
 	margin-top: 0;
 	border-top: 0;
 }
